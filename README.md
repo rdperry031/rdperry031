@@ -1,4 +1,9 @@
+
 ### Hi there 👋
+
+I am a full stack developer who is experinced with HTML, CSS, JavaScript, React, and Node
+
+📫 How to reach me: <a href='https://www.linkedin.com/in/richard-d-perry/'>Linkedin</a>
 
 <!--
 **rdperry031/rdperry031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
